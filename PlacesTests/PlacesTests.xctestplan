@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "6544CAF4-4854-47D3-9719-28B512609E7B",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Places.xcodeproj",
+        "identifier" : "B15C5DB629D61A9300A816C4",
+        "name" : "PlacesTests"
+      }
+    }
+  ],
+  "version" : 1
+}

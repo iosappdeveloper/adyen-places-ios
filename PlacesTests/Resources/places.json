@@ -1,0 +1,399 @@
+{
+    "results": [
+        {
+            "fsq_id": "e99ba4e593e80f043b477829",
+            "categories": [],
+            "chains": [],
+            "distance": 114,
+            "geocodes": {
+                "main": {
+                    "latitude": 38.92518,
+                    "longitude": -77.39284
+                }
+            },
+            "link": "/v3/places/e99ba4e593e80f043b477829",
+            "location": {
+                "address": "13470 Coppermine Rd",
+                "census_block": "510594811062005",
+                "country": "US",
+                "dma": "Washington, Dc-Hagrstwn",
+                "formatted_address": "13470 Coppermine Rd, Herndon, VA 20171",
+                "locality": "Herndon",
+                "postcode": "20171",
+                "region": "VA"
+            },
+            "name": "Trustco Bank",
+            "related_places": {}
+        },
+        {
+            "fsq_id": "db2bfb78370d451cc3ca13b8",
+            "categories": [
+                {
+                    "id": 11000,
+                    "name": "Business and Professional Services",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 140,
+            "geocodes": {
+                "main": {
+                    "latitude": 38.926945,
+                    "longitude": -77.394599
+                },
+                "roof": {
+                    "latitude": 38.926945,
+                    "longitude": -77.394599
+                }
+            },
+            "link": "/v3/places/db2bfb78370d451cc3ca13b8",
+            "location": {
+                "address": "12962 Pinecrest View Ct",
+                "census_block": "510594811051008",
+                "country": "US",
+                "dma": "Washington, Dc-Hagrstwn",
+                "formatted_address": "12962 Pinecrest View Ct, Herndon, VA 20171",
+                "locality": "Herndon",
+                "postcode": "20171",
+                "region": "VA"
+            },
+            "name": "Foreign Disclosure & Export Solutions Corporation",
+            "related_places": {}
+        },
+        {
+            "fsq_id": "8d0b37165d8648795b7a107b",
+            "categories": [
+                {
+                    "id": 17137,
+                    "name": "Video Store",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/video_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 230,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 38.927462,
+                    "longitude": -77.395807
+                },
+                "main": {
+                    "latitude": 38.927303,
+                    "longitude": -77.395735
+                },
+                "roof": {
+                    "latitude": 38.927303,
+                    "longitude": -77.395735
+                }
+            },
+            "link": "/v3/places/8d0b37165d8648795b7a107b",
+            "location": {
+                "address": "13005 Farthingale Dr",
+                "census_block": "510594811051008",
+                "country": "US",
+                "dma": "Washington, Dc-Hagrstwn",
+                "formatted_address": "13005 Farthingale Dr, Herndon, VA 20171",
+                "locality": "Herndon",
+                "postcode": "20171",
+                "region": "VA"
+            },
+            "name": "Video Editing Professional",
+            "related_places": {}
+        },
+        {
+            "fsq_id": "5b20503cdab4b1002c9d3439",
+            "categories": [
+                {
+                    "id": 16019,
+                    "name": "Hiking Trail",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 554,
+            "geocodes": {
+                "main": {
+                    "latitude": 38.930183,
+                    "longitude": -77.390697
+                }
+            },
+            "link": "/v3/places/5b20503cdab4b1002c9d3439",
+            "location": {
+                "census_block": "510594811062005",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Washington, Dc-Hagrstwn",
+                "formatted_address": "Herndon, VA 20171",
+                "locality": "Herndon",
+                "postcode": "20171",
+                "region": "VA"
+            },
+            "name": "Fairfax County Parkway Trail",
+            "related_places": {},
+            "timezone": "America/New_York"
+        },
+        {
+            "fsq_id": "73eff5e280a64ca3ff0e5c6d",
+            "categories": [
+                {
+                    "id": 12082,
+                    "name": "Organization",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/building/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 379,
+            "geocodes": {
+                "main": {
+                    "latitude": 38.926073,
+                    "longitude": -77.389527
+                },
+                "roof": {
+                    "latitude": 38.926073,
+                    "longitude": -77.389527
+                }
+            },
+            "link": "/v3/places/73eff5e280a64ca3ff0e5c6d",
+            "location": {
+                "address": "12760 Bradwell Rd",
+                "census_block": "510594811062005",
+                "country": "US",
+                "dma": "Washington, Dc-Hagrstwn",
+                "formatted_address": "12760 Bradwell Rd, Oak Hill, VA 20171",
+                "locality": "Oak Hill",
+                "postcode": "20171",
+                "region": "VA"
+            },
+            "name": "Ray Rowe 1988 Trust For Animals Duncan Forbes Ttee",
+            "related_places": {}
+        },
+        {
+            "fsq_id": "579c61f0498e2db2e1701719",
+            "categories": [
+                {
+                    "id": 11087,
+                    "name": "Heating, Ventilating and Air Conditioning Contractor",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/realestate_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 589,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 38.92169,
+                    "longitude": -77.394208
+                },
+                "main": {
+                    "latitude": 38.920699,
+                    "longitude": -77.395639
+                },
+                "roof": {
+                    "latitude": 38.920699,
+                    "longitude": -77.395639
+                }
+            },
+            "link": "/v3/places/579c61f0498e2db2e1701719",
+            "location": {
+                "address": "2817 Gibson Oaks Dr",
+                "census_block": "510594811063006",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Washington, Dc-Hagrstwn",
+                "formatted_address": "2817 Gibson Oaks Dr, Herndon, VA 20171",
+                "locality": "Herndon",
+                "postcode": "20171",
+                "region": "VA"
+            },
+            "name": "Quang's HVAC",
+            "related_places": {},
+            "timezone": "America/New_York"
+        },
+        {
+            "fsq_id": "5352b060498e1e415af42a95",
+            "categories": [
+                {
+                    "id": 16019,
+                    "name": "Hiking Trail",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/hikingtrail_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 599,
+            "geocodes": {
+                "main": {
+                    "latitude": 38.921064,
+                    "longitude": -77.397577
+                },
+                "roof": {
+                    "latitude": 38.921064,
+                    "longitude": -77.397577
+                }
+            },
+            "link": "/v3/places/5352b060498e1e415af42a95",
+            "location": {
+                "census_block": "510594825032001",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Washington, Dc-Hagrstwn",
+                "formatted_address": "Oak Hill, VA 20171",
+                "locality": "Oak Hill",
+                "postcode": "20171",
+                "region": "VA"
+            },
+            "name": "Horsepen Stream Valley Trail",
+            "related_places": {},
+            "timezone": "America/New_York"
+        },
+        {
+            "fsq_id": "b9fda11105d74e5faaf09e24",
+            "categories": [
+                {
+                    "id": 17000,
+                    "name": "Retail",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 434,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 38.927175,
+                    "longitude": -77.39865
+                },
+                "main": {
+                    "latitude": 38.926975,
+                    "longitude": -77.398694
+                },
+                "roof": {
+                    "latitude": 38.926975,
+                    "longitude": -77.398694
+                }
+            },
+            "link": "/v3/places/b9fda11105d74e5faaf09e24",
+            "location": {
+                "address": "13029 Farthingale Dr",
+                "census_block": "510594811051008",
+                "country": "US",
+                "dma": "Washington, Dc-Hagrstwn",
+                "formatted_address": "13029 Farthingale Dr, Herndon, VA 20171",
+                "locality": "Herndon",
+                "postcode": "20171",
+                "region": "VA"
+            },
+            "name": "Viva Tek",
+            "related_places": {}
+        },
+        {
+            "fsq_id": "4c3e50f76faac9b649170e76",
+            "categories": [
+                {
+                    "id": 16037,
+                    "name": "Playground",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/parks_outdoors/playground_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 633,
+            "geocodes": {
+                "main": {
+                    "latitude": 38.920799,
+                    "longitude": -77.39759
+                },
+                "roof": {
+                    "latitude": 38.920799,
+                    "longitude": -77.39759
+                }
+            },
+            "link": "/v3/places/4c3e50f76faac9b649170e76",
+            "location": {
+                "census_block": "510594825032001",
+                "country": "US",
+                "cross_street": "",
+                "dma": "Washington, Dc-Hagrstwn",
+                "formatted_address": "Herndon, VA 20171",
+                "locality": "Herndon",
+                "postcode": "20171",
+                "region": "VA"
+            },
+            "name": "Emerald Chase Playground",
+            "related_places": {},
+            "timezone": "America/New_York"
+        },
+        {
+            "fsq_id": "7824499cec6c4a131ce13a4a",
+            "categories": [
+                {
+                    "id": 11027,
+                    "name": "Computer Repair Service",
+                    "icon": {
+                        "prefix": "https://ss3.4sqi.net/img/categories_v2/shops/default_",
+                        "suffix": ".png"
+                    }
+                }
+            ],
+            "chains": [],
+            "distance": 447,
+            "geocodes": {
+                "drop_off": {
+                    "latitude": 38.92904,
+                    "longitude": -77.396529
+                },
+                "main": {
+                    "latitude": 38.929206,
+                    "longitude": -77.396662
+                },
+                "roof": {
+                    "latitude": 38.929206,
+                    "longitude": -77.396662
+                }
+            },
+            "link": "/v3/places/7824499cec6c4a131ce13a4a",
+            "location": {
+                "address": "2784 Mansway Dr",
+                "census_block": "510594811051005",
+                "country": "US",
+                "dma": "Washington, Dc-Hagrstwn",
+                "formatted_address": "2784 Mansway Dr, Herndon, VA 20171",
+                "locality": "Herndon",
+                "postcode": "20171",
+                "region": "VA"
+            },
+            "name": "Stonemont Solutions",
+            "related_places": {}
+        }
+    ],
+    "context": {
+        "geo_bounds": {
+            "circle": {
+                "center": {
+                    "latitude": 38.9258,
+                    "longitude": -77.3939
+                },
+                "radius": 1000
+            }
+        }
+    }
+}
